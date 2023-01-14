@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/GiacomoFranco/Asincronia/issues"
   },
-  "homepage": "https://github.com/GiacomoFranco/Asincronia#readme"
+  "homepage": "https://github.com/GiacomoFranco/Asincronia#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
