@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/GiacomoFranco/Asincronia#readme",
   "dependencies": {
+    "node-fetch": "^3.3.0",
     "xmlhttprequest": "^1.8.0"
   }
 }
