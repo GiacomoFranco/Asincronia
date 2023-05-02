@@ -24,7 +24,7 @@ function greetings(name) {
 }
 
 export function execCallback(callback, time) {
-    setTimeout(callback, time, time)
+    setTimeout(callback, 3000, time)
   }
   
   function logSomething(time) {
